@@ -1,0 +1,4 @@
+#!/usr/bin/env python
+
+import my_module
+import package.my_module 
