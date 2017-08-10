@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+
+# Run a test server
+from myapp import app
+app.run(debug=True)

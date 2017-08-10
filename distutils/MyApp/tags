@@ -1,0 +1,5 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+CSRF_ENABLED	/home/james/code/learn_py/distutils/MyApp/config.py	/^CSRF_ENABLED        = True$/;"	v	language:Python
+CSRF_SESSION_KEY	/home/james/code/learn_py/distutils/MyApp/config.py	/^CSRF_SESSION_KEY    = "secret"$/;"	v	language:Python
+DEBUG	/home/james/code/learn_py/distutils/MyApp/config.py	/^DEBUG               = True$/;"	v	language:Python
+THREADS_PER_PAGE	/home/james/code/learn_py/distutils/MyApp/config.py	/^THREADS_PER_PAGE    = 4$/;"	v	language:Python
