@@ -1,5 +1,14 @@
 !_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+author	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    author="name surname",$/;"	v	language:Python
+author_email	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    author_email="name@addr.ess",$/;"	v	language:Python
 CSRF_ENABLED	/home/james/code/learn_py/distutils/MyApp/config.py	/^CSRF_ENABLED        = True$/;"	v	language:Python
 CSRF_SESSION_KEY	/home/james/code/learn_py/distutils/MyApp/config.py	/^CSRF_SESSION_KEY    = "secret"$/;"	v	language:Python
 DEBUG	/home/james/code/learn_py/distutils/MyApp/config.py	/^DEBUG               = True$/;"	v	language:Python
+description	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    description="Useful towel-related stuff.",$/;"	v	language:Python
+include_package_data	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    include_package_data=True,$/;"	v	language:Python
+install_requires	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    install_requires=[$/;"	v	language:Python
+name	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    name="MyApplication",$/;"	v	language:Python
+packages	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    packages=["myapp"],$/;"	v	language:Python
 THREADS_PER_PAGE	/home/james/code/learn_py/distutils/MyApp/config.py	/^THREADS_PER_PAGE    = 4$/;"	v	language:Python
+url	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    url="http:\/\/pypi.python.org\/pypi\/MyApplication_v010\/",$/;"	v	language:Python
+version	/home/james/code/learn_py/distutils/MyApp/setup.py	/^    version="0.1.0",$/;"	v	language:Python
