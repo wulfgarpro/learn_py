@@ -12,7 +12,9 @@ To run in virtualenv:
 	export PROJECT_HOME=$HOME/code
 	export VIRTUALENVWRAPPER_PYTHON="$(which python3.6)"
 	source /usr/local/bin/virtualenvwrapper.sh
-4. cd MyApp && workon .
+3. setvirtualenvproject
+4. cd MyApp && setvirtualenvproject
+5. workon .
 
 Then:
 
@@ -24,3 +26,7 @@ If you make changes and want to reflect them on the system:
 
 1. pip install . --user --upgrade
 2. go
+
+When you want to deactivate virtualenv:
+
+1. deactivate
