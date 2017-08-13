@@ -1,3 +1,0 @@
-[console_scripts]
-go = myapp.myapp:main
-
