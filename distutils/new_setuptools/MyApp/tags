@@ -1,0 +1,9 @@
+!_TAG_FILE_SORTED	2	/0=unsorted, 1=sorted, 2=foldcase/
+author	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        author="James Fraser",$/;"	v	language:Python
+author_email	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        author_email="wulfgar.pro@gmail.com",$/;"	v	language:Python
+description	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        description="Example using setuptools",$/;"	v	language:Python
+entry_points	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        entry_points={$/;"	v	language:Python
+name	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        name="myapp",$/;"	v	language:Python
+packages	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        packages=find_packages(),$/;"	v	language:Python
+url	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        url="https:\/\/www.wulfgar.pro",$/;"	v	language:Python
+version	/home/james/code/learn_py/distutils/new_setuptools/MyApp/setup.py	/^        version="1.0",$/;"	v	language:Python
