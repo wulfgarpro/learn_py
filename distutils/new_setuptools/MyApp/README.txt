@@ -1,5 +1,11 @@
 To install:
 
+If you don't have pip:
+
+1. python get-pip.py
+
+Then:
+
 1. pip install -r requirements.txt  --user
 2. pip install . --user
 3. go
