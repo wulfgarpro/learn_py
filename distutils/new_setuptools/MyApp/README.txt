@@ -13,6 +13,7 @@ Then:
 5. pip list | grep -i myapp
 6. go
 
-You can also use pip to call setup.py and install the package for you:
+You can also use pip to call setup.py and install the package for you.
+This is useful since pip offers advantages:
 
 1. pip install .
