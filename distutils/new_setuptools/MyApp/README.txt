@@ -6,11 +6,9 @@ If you don't have pip:
 
 Then:
 
-1. pip install -r requirements.txt  --user
-2. pip install . --user
-3. go
-
-If you make changes and want to reflect them on the system:
-
-1. pip install . --user --upgrade
-2. go
+1. virtualenv .env
+2. source .env/bin/activate
+3. pip install -r requirements.txt  --user
+4. python setup.py build or python setup.py install or python setup.py develop
+5. pip list | grep -i myapp
+6. go
