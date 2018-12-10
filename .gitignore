@@ -1,2 +1,4 @@
 tags
+*.env
+*__pycache__
 
