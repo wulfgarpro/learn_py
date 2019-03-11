@@ -2,8 +2,8 @@ import rpyc
 import datetime
 
 
-CONN1 = rpyc.connect("localhost", 18812)
-CONN2 = rpyc.connect("localhost", 18813)
+CONN1 = rpyc.connect("localhost", 39738)
+CONN2 = rpyc.connect("localhost", 39707)
 TESTS = ['abc123', 'abc456']
 CONNECTS = {}
 CONNECTS[TESTS[0]] = CONN1
